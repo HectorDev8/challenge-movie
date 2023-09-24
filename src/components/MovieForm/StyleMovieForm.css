@@ -1,0 +1,14 @@
+.bar{
+    padding: 10px;
+    align-items: center;
+    text-align: right;
+    border-bottom: 1px solid #fc284c;
+
+}
+    
+.bar .button{
+    background-color: #fc284c;
+    margin: 0 auto;
+    width: 20vh;
+    }
+

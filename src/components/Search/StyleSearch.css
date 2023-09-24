@@ -1,0 +1,28 @@
+.container {
+    text-align: center;
+}
+
+.search-title {
+    margin-top: 25px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.search-input {
+    width: 200px;
+    padding: 5px; 
+}
+
+.movie-card {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    margin: 100px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.movie-details {
+    font-size: 16px;
+    margin-top: 10px;
+}
